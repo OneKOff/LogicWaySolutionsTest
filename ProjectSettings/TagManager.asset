@@ -53,6 +53,12 @@ TagManager:
   - name: House1
     uniqueID: 1134282409
     locked: 0
+  - name: House2Foundation
+    uniqueID: 766708505
+    locked: 0
+  - name: House2
+    uniqueID: 4091027501
+    locked: 0
   - name: Creature
     uniqueID: 2155802167
     locked: 0
